@@ -1,0 +1,9 @@
+Stakeholder Role,Governance Interest,Influence,Key Governance Responsibility,Engagement Approach
+VP Operations,Operational efficiency and reliable business data,High,Executive sponsorship and operational governance decisions,Manage closely through Governance Council and regular programme updates
+Head of Compliance,Regulatory compliance privacy and governance risk,High,Regulatory oversight policy compliance and escalation of significant governance risks,Manage closely through Governance Council compliance reviews and risk reporting
+Head of Data Analytics,Trusted data for analytics reporting and decision-making,High,Data usage analytics requirements Data Quality and governance performance,Engage regularly through Governance Council and Data Quality reviews
+Enterprise Architect,Data architecture integration metadata and technical governance,High,Alignment of governance requirements with enterprise architecture systems and data integration,Engage throughout governance design and implementation
+IT / Data Team,Technical implementation of governance controls and data integration,High,Implement technical controls integration monitoring and supporting governance capabilities,Collaborate continuously during implementation
+Data Owners,Accountability for trusted and appropriately governed domain data,High,Accountable for definitions Data Quality access and domain-level governance decisions,Engage through Governance Council domain reviews and issue escalation
+Data Stewards,Day-to-day management of governed data,Medium,Monitor Data Quality maintain standards support metadata and coordinate issue remediation,Engage through bi-weekly stewardship forums and monthly Data Quality reviews
+Business Users,Reliable understandable and accessible data for business activities,Medium,Apply governance standards identify data issues and support appropriate data use,Communicate through training guidance and governance awareness activities
