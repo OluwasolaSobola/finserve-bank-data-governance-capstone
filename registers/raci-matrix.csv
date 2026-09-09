@@ -1,0 +1,20 @@
+Governance Activity,Data Governance Council,Governance Lead,Data Owners,Data Stewards,IT / Data Team,Compliance
+Governance framework and strategy,A,R,C,C,C,C
+Governance policy approval,A,R,C,C,C,C
+Data standards approval,C,R,A,C,C,C
+Data Quality rule definition,C,C,A,R,C,C
+Data Quality monitoring,I,C,A,R,C,I
+Data Quality issue remediation,I,C,A,R,R,I
+Critical issue escalation,A,R,R,C,C,C
+Data ownership assignment,A,R,R,C,I,C
+Business definition management,I,C,A,R,C,I
+Critical Data Element governance,C,R,A,R,C,C
+Metadata management,I,C,A,R,R,I
+Data classification,C,C,A,R,C,R
+PII protection and privacy governance,C,C,A,R,R,R
+Data access governance,I,C,A,R,R,C
+Data retention and lifecycle governance,C,C,A,R,R,R
+AI Governance,A,R,C,C,C,R
+AI risk classification,C,R,C,C,C,R
+Governance performance monitoring,A,R,C,R,C,C
+Governance KPI reporting,A,R,C,R,C,C
