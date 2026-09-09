@@ -151,21 +151,43 @@ The change approach includes:
 
 A training-completion target of **≥90%** was incorporated into the governance performance framework.
 
-## Value Realisation
+## Business Value & ROI
 
-The governance programme is designed to generate value through:
+The business-value assessment connected Data Governance improvements with financial and strategic outcomes.
 
-- Reduced manual data correction and reconciliation
+### Hard Benefits
+
+- Reduced manual data correction and reconciliation costs
+- Improved operational efficiency and productivity
 - Reduced reporting errors and rework
-- Improved operational efficiency
-- Improved decision-making
-- Stronger regulatory compliance
-- Reduced data risk
-- Reduced AI risk
-- Increased accountability
-- Improved organisational trust in data
 
-No unsupported financial ROI values are assumed. Value is assessed through governance KPIs, operational improvements, risk reduction and measurable changes in Data Quality and governance performance.
+### Soft Benefits
+
+- Improved decision-making accuracy
+- Increased customer trust and satisfaction
+- Enhanced regulatory reputation
+
+### ROI Assessment
+
+The capstone established an ROI assessment structure covering:
+
+- Governance programme investment
+- Annual financial benefit
+- Return on Investment (ROI)
+- Payback period
+
+The estimated payback period was **12–24 months**, driven by efficiency gains and cost reduction.
+
+The financial model was designed as a value-realisation framework, with investment and annual-benefit amounts represented as modelling variables rather than final validated financial figures.
+
+Governance value was also assessed through:
+
+- Compliance risk reduction, including risks associated with missing KYC data
+- Operational risk reduction arising from data inconsistencies
+- AI risk reduction relating to bias and lack of transparency
+- Increased organisational trust in data
+
+The assessment demonstrated how Data Governance can create value through cost reduction, operational efficiency, risk avoidance and improved decision-making.
 
 ## Three-Year Data Governance Strategy
 
