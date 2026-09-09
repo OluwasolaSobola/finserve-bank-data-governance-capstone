@@ -14,4 +14,4 @@ Risk,Data Incidents,Number of material data incidents,0,Monthly,Governance Lead,
 Operations,Issue Resolution Time,Time required to resolve logged governance and Data Quality issues,Downward Trend,Monthly,Data Steward,Increasing trend or overdue critical issue
 Operations,Data Error Rate,Rate of identified data errors across monitored datasets,Downward Trend,Monthly,Data Owner,Increasing trend
 Compliance,Audit Findings,Number and severity of governance-related audit findings,Downward Trend,Quarterly,Compliance,New high-risk finding or increasing trend
-Governance,Stewardship Activity,Completion of scheduled stewardship reviews and governance activities,>=90%,Monthly,Governance Lead,Below target
+Data Quality,Timeliness,Percentage of records updated within the required timeframe,>=85%,Monthly,Data Owner,Below target
